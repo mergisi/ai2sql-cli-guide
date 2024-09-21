@@ -97,7 +97,7 @@ See the `examples/` directory for more detailed usage examples.
 - For unexpected results, try rephrasing your query.
 - SQLite: Make sure the database file path is correct and accessible.
 - PostgreSQL: Verify that the specified schema exists and you have proper permissions.
-- For more troubleshooting tips and FAQs, visit [ai2sql.io/support](https://ai2sql.io/support).
+- For more troubleshooting tips and FAQs, visit [ai2sql.io/support](https://ai2sql.io/contact).
 
 ## Contributing
 
